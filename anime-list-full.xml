@@ -27639,7 +27639,7 @@
   <anime anidbid="10583" tvdbid="267440" defaulttvdbseason="0" imdbid="tt3646944,tt3646946">
     <name>Gekijouban Shingeki no Kyojin</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-19;2-20;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-14;2-15;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10584" tvdbid="OVA" defaulttvdbseason="1">
@@ -33733,7 +33733,7 @@
   <anime anidbid="15559" tvdbid="384757" defaulttvdbseason="1">
     <name>Kamisama ni Natta Hi</name>
   </anime>
-  <anime anidbid="15582" tvdbid="267440" defaulttvdbseason="0">
+  <anime anidbid="15582" tvdbid="267440" defaulttvdbseason="0" tmdbid="714194" imdbid="tt12415546">
     <name>Shingeki no Kyojin: Chronicle</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-24;</mapping>
