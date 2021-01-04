@@ -19121,7 +19121,7 @@
     <name>Dojoji</name>
   </anime>
   <anime anidbid="7000" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
-    <name>Fusha no Sha</name>
+    <name>Bu She Zhi She</name>
   </anime>
   <anime anidbid="7001" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Usaru-san</name>
@@ -43780,9 +43780,6 @@
   <anime anidbid="15907" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Ayanami Rei, Hajimete no Kuchibeni</name>
   </anime>
-  <anime anidbid="15908" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Attakai tte, Gohoubi da.</name>
-  </anime>
   <anime anidbid="15909" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Toilet no Hanako-san vs Kukkyou Taimashi</name>
   </anime>
@@ -43953,5 +43950,8 @@
   </anime>
   <anime anidbid="15967" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Bai Yao Pu Di Er Ji</name>
+  </anime>
+  <anime anidbid="15968" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Eigaenzetsu Seiji no rinrika Goto Shinpei 1926</name>
   </anime>
 </anime-list>
