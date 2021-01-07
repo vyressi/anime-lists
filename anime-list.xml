@@ -27013,6 +27013,9 @@
   <anime anidbid="12244" tvdbid="321496" defaulttvdbseason="0">
     <name>Koro-sensei Quest!</name>
   </anime>
+  <anime anidbid="12245" tvdbid="283947" defaulttvdbseason="0" episodeoffset="13" tmdbid="431808" imdbid="tt6475250">
+    <name>Gekijouban Ansatsu Kyoushitsu: 365-nichi no Jikan</name>
+  </anime>
   <anime anidbid="12246" tvdbid="Movie" defaulttvdbseason="1" tmdbid="431802,431803">
     <name>Koutetsujou no Kabaneri Soushuuhen</name>
   </anime>
