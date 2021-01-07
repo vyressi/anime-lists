@@ -164,12 +164,7 @@ Batch Files
 The Windows batch files are used to automate the updating of the lists.
 They require the following programs to work:
 *   **[curl.exe](http://curl.haxx.se/)** - Used to download animetitles.xml from AniDb.net.
-*   **[xsltproc.exe](https://www.zlatkovic.com/libxml.en.html)** - Used to apply the xsl transformations to the lists.
-  *  **libxslt.dll**
-  *  **libexslt.dll**
-  *  **libxml2.dll**
-  *  **iconv.dll**
-  *  **zlib1.dll**
+*   **[xsltproc.exe](https://github.com/CoppeliaRobotics/xsltproc-win/blob/master/xsltproc-win.zip?raw=true)** - Used to apply the xsl transformations to the lists.
 *   **git** - Used to automatically commit the update of animetitles.xml.
 
 curl and xsltproc (and dependencies) should either be in the folder or added somewhere in the Windows PATH.
