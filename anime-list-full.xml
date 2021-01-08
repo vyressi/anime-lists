@@ -31859,6 +31859,9 @@
   <anime anidbid="13695" tvdbid="340280" defaulttvdbseason="1">
     <name>Hinomaru Zumou</name>
   </anime>
+  <anime anidbid="13696" tvdbid="333239" defaulttvdbseason="2">
+    <name>TsukiPro the Animation 2</name>
+  </anime>
   <anime anidbid="13698" tvdbid="350301" defaulttvdbseason="1">
     <name>Iya na Kao Sarenagara Opantsu Misete Moraitai</name>
   </anime>
@@ -32418,6 +32421,9 @@
   </anime>
   <anime anidbid="14201" tvdbid="377902" defaulttvdbseason="1">
     <name>Kumo Desu ga, Nanika?</name>
+  </anime>
+  <anime anidbid="14202" tvdbid="337336" defaulttvdbseason="2">
+    <name>Idolish Seven: Second Beat!</name>
   </anime>
   <anime anidbid="14203" tvdbid="82484" defaulttvdbseason="3">
     <name>Dai 501 Tougou Sentou Koukuu Dan Strike Witches: Road to Berlin</name>
@@ -33625,6 +33631,9 @@
   <anime anidbid="15330" tvdbid="361013" defaulttvdbseason="2">
     <name>Beastars (2021)</name>
   </anime>
+  <anime anidbid="15332" tvdbid="390306" defaulttvdbseason="1">
+    <name>Hige o Soru. Soshite Joshikousei o Hirou.</name>
+  </anime>
   <anime anidbid="15333" tvdbid="369139" defaulttvdbseason="2">
     <name>Gundam Build Divers Re:Rise (2020)</name>
   </anime>
@@ -33694,6 +33703,9 @@
   <anime anidbid="15437" tvdbid="378879" defaulttvdbseason="1">
     <name>Akudama Drive</name>
   </anime>
+  <anime anidbid="15441" tvdbid="378609" defaulttvdbseason="1">
+    <name>86</name>
+  </anime>
   <anime anidbid="15448" tvdbid="389459" defaulttvdbseason="1">
     <name>Burn the Witch</name>
   </anime>
@@ -33723,6 +33735,9 @@
   </anime>
   <anime anidbid="15492" tvdbid="386714" defaulttvdbseason="1">
     <name>Munou na Nana</name>
+  </anime>
+  <anime anidbid="15493" tvdbid="347425" defaulttvdbseason="2">
+    <name>Isekai Maou to Shoukan Shoujo no Dorei Majutsu Omega</name>
   </anime>
   <anime anidbid="15502" tvdbid="380402" defaulttvdbseason="1">
     <name>Hataraku Saibou Black</name>
@@ -33760,6 +33775,9 @@
   <anime anidbid="15597" tvdbid="388645" defaulttvdbseason="1">
     <name>Edens Zero</name>
   </anime>
+  <anime anidbid="15601" tvdbid="393478" defaulttvdbseason="1">
+    <name>Tokyo Revengers</name>
+  </anime>
   <anime anidbid="15602" tvdbid="392195" defaulttvdbseason="1">
     <name>Bungou Stray Dogs Wan!</name>
   </anime>
@@ -33768,6 +33786,9 @@
   </anime>
   <anime anidbid="15604" tvdbid="371437" defaulttvdbseason="2">
     <name>Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta... (2021)</name>
+  </anime>
+  <anime anidbid="15622" tvdbid="385278" defaulttvdbseason="1">
+    <name>Ijiranaide, Nagatoro-san</name>
   </anime>
   <anime anidbid="15627" tvdbid="300989" defaulttvdbseason="3">
     <name>Osomatsu-san (2020)</name>
@@ -33846,5 +33867,11 @@
   </anime>
   <anime anidbid="15949" tvdbid="346744" defaulttvdbseason="4">
     <name>Aggressive Retsuko 4</name>
+  </anime>
+  <anime anidbid="15952" tvdbid="394013" defaulttvdbseason="1">
+    <name>Mahouka Koukou no Yuutousei</name>
+  </anime>
+  <anime anidbid="15955" tvdbid="337336" defaulttvdbseason="3">
+    <name>Idolish Seven 3</name>
   </anime>
 </anime-list>
