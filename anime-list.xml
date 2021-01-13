@@ -27579,11 +27579,8 @@
   <anime anidbid="12687" tvdbid="movie" defaulttvdbseason="1" tmdbid="519811" imdbid="tt6069846">
     <name>Complex x Complex</name>
   </anime>
-  <anime anidbid="12689" tvdbid="272316" defaulttvdbseason="0">
+  <anime anidbid="12689" tvdbid="272316" defaulttvdbseason="0" episodeoffset="1" tmdbid="452617">
     <name>Non Non Biyori Repeat: Hotaru ga Tanoshinda</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="12691" tvdbid="313435" defaulttvdbseason="2">
     <name>Saiki Kusuo no Sainan (2018)</name>
