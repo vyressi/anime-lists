@@ -29842,6 +29842,12 @@
   <anime anidbid="14764" tvdbid="267435" defaulttvdbseason="3">
     <name>Yahari Ore no Seishun LoveCome wa Machigatte Iru. Kan</name>
   </anime>
+  <anime anidbid="14767" tvdbid="352408" defaulttvdbseason="2">
+    <name>Tensei Shitara Slime Datta Ken (2021)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-7;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="14772" tvdbid="348742" defaulttvdbseason="2">
     <name>Baki (2020)</name>
   </anime>
@@ -30352,7 +30358,7 @@
   <anime anidbid="15321" tvdbid="374191" defaulttvdbseason="1">
     <name>Dragon Quest: Dai no Daibouken (2020)</name>
   </anime>
-  <anime anidbid="15322" tvdbid="283934" defaulttvdbseason="3">
+  <anime anidbid="15322" tvdbid="283934" defaulttvdbseason="2">
     <name>World Trigger (2021)</name>
   </anime>
   <anime anidbid="15323" tvdbid="390382" defaulttvdbseason="1">
