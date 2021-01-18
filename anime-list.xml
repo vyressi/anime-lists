@@ -26714,6 +26714,9 @@
   </anime>
   <anime anidbid="12014" tvdbid="309530" defaulttvdbseason="1">
     <name>91 Days</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-1;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12018" tvdbid="329987" defaulttvdbseason="1">
     <name>Hina Logi: From Luck &amp; Logic</name>
