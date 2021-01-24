@@ -296,7 +296,7 @@
     <anime anidbid="379">Urusei Yatsura 2: Beautiful Dreamer</anime>
     <anime anidbid="380">Urusei Yatsura 3: Remember My Love</anime>
     <anime anidbid="381">Urusei Yatsura 4: Lum the Forever</anime>
-    <anime anidbid="382">Urusei Yatsura: Kanketsu Hen</anime>
+    <anime anidbid="382">Urusei Yatsura: Kanketsuhen</anime>
     <anime anidbid="383">Urusei Yatsura: Itsudatte My Darling</anime>
     <anime anidbid="7322">Urusei Yatsura: The Shougaibutsu Suieitaikai</anime>
     <titles>
@@ -399,7 +399,7 @@
     </titles>
   </set>
   <set>
-    <anime anidbid="491">Maison Ikkoku: Kanketsu Hen</anime>
+    <anime anidbid="491">Maison Ikkoku: Kanketsuhen</anime>
     <anime anidbid="601">Maison Ikkoku: Bangaihen Ikkokujima Nanpa Shimatsuki</anime>
     <anime anidbid="7963">Maison Ikkoku: Shiki Utsuriyuku Kisetsu no Naka de</anime>
     <titles>
@@ -807,7 +807,7 @@
     </titles>
   </set>
   <set>
-    <anime anidbid="1418">Saint Seiya Tenkai-hen Josou: Overture</anime>
+    <anime anidbid="1418">Saint Seiya Tenkai Hen Josou: Overture</anime>
     <anime anidbid="1884">Saint Seiya: Jashin Eris</anime>
     <anime anidbid="1886">Saint Seiya: Kamigami no Atsuki Tatakai</anime>
     <anime anidbid="1887">Saint Seiya: Shinku no Shounen Densetsu</anime>
@@ -1513,10 +1513,10 @@
   <set>
     <anime anidbid="4273">Naniwa Yuukyouden</anime>
     <anime anidbid="8186">Zoku Naniwa Yuukyouden</anime>
-    <anime anidbid="8187">Naniwa Yuukyouden: Kanketsu-hen</anime>
-    <anime anidbid="8188">Naniwa Yuukyouden: Chou Gokudou! Yoru no Bat wa Manrui-hen</anime>
-    <anime anidbid="8189">Naniwa Yuukyouden: Kyouretsu! Ana ga Attara Iretai-hen</anime>
-    <anime anidbid="8190">Naniwa Yuukyouden: Nekketsu!! Bakushou Mankai-hen</anime>
+    <anime anidbid="8187">Naniwa Yuukyouden: Kanketsuhen</anime>
+    <anime anidbid="8188">Naniwa Yuukyouden: Chou Gokudou! Yoru no Bat wa Manrui Hen</anime>
+    <anime anidbid="8189">Naniwa Yuukyouden: Kyouretsu! Ana ga Attara Iretai Hen</anime>
+    <anime anidbid="8190">Naniwa Yuukyouden: Nekketsu!! Bakushou Mankai Hen</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Naniwa Yuukyouden Collection</title>
     </titles>
@@ -2006,7 +2006,7 @@
   </set>
   <set>
     <anime anidbid="6935">Nansensu Monogatari Dai Ippen: Sarugashima</anime>
-    <anime anidbid="7005">Nansensu Monogatari Daini-hen: Kaizokusen</anime>
+    <anime anidbid="7005">Nansensu Monogatari Daini Hen: Kaizokusen</anime>
     <titles>
       <title type="main" xml:lang="x-jat">Nansensu Monogatari Collection</title>
     </titles>
