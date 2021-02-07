@@ -24545,7 +24545,7 @@
     <name>Time Ranger Cesar Boy no Bouken: Roma Teikoku Hen</name>
   </anime>
   <anime anidbid="8860" tvdbid="259656" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Ebiten: Kouritsu Ebi Sugawa Koukou Tenmonbu</name>
+    <name>Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu</name>
   </anime>
   <anime anidbid="8861" tvdbid="259646" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Campione! Matsurowanu Kamigami to Kamigoroshi no Maou</name>
@@ -25587,7 +25587,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="9245" tvdbid="259656" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
-    <name>Ebiten: Kouritsu Ebi Sugawa Koukou Tenmonbu - Gigazon 23 Part II Himitsu Kudasai</name>
+    <name>Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu - Gigazon 23 Part II Himitsu Kudasai</name>
   </anime>
   <anime anidbid="9246" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shoujo x Shoujo x Shoujo The Animation</name>
@@ -33955,9 +33955,6 @@
       <mapping anidbseason="0" tvdbseason="0">;1-25;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="12421" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Masou Gakuen HxH 2</name>
-  </anime>
   <anime anidbid="12422" tvdbid="320169" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sagrada Reset</name>
   </anime>
@@ -39272,7 +39269,7 @@
     <name>Meng Ta: Xue Mi Cheng</name>
   </anime>
   <anime anidbid="14288" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Cike Wuliuqi</name>
+    <name>Cike Wu Liu Qi</name>
   </anime>
   <anime anidbid="14289" tvdbid="359095" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Bokutachi wa Benkyou ga Dekinai</name>
@@ -43421,7 +43418,7 @@
     <name>Yingxiong Zai Lin</name>
   </anime>
   <anime anidbid="15786" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Shi Yi Chang An: Ming Yue Ji Shi You</name>
+    <name>Shi Yi Changan: Mingyue Jishi You</name>
   </anime>
   <anime anidbid="15788" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Rikei ga Koi ni Ochita no de Shoumei Shite Mita. 2</name>
@@ -43502,7 +43499,7 @@
     <name>Jian Wang 3: Xiaganyidan Shen Jianxin Di San Ji</name>
   </anime>
   <anime anidbid="15818" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Jian Wang 3: Xiaganyidan Shen Jianxin - Shang Piao</name>
+    <name>Jian Wang 3: Xia Gan Yi Dan Shen Jian Xin - Changpiao</name>
   </anime>
   <anime anidbid="15819" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Zhen Hun Jie: Bei Luo Shi Men Pian Shang</name>
@@ -43970,7 +43967,7 @@
     <name>Saiyuuki Reload Zeroin</name>
   </anime>
   <anime anidbid="15981" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>D4DJ Petit Mix</name>
+    <name>Puchimiku D4DJ Petit Mix</name>
   </anime>
   <anime anidbid="15982" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Assault Lily (2021)</name>
@@ -44060,7 +44057,7 @@
     <name>Idolish Seven (2 Cour)</name>
   </anime>
   <anime anidbid="16011" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Chang Jian Feng Yun</name>
+    <name>Chang Jian Fengyun</name>
   </anime>
   <anime anidbid="16012" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Jigokuraku</name>
@@ -44100,5 +44097,47 @@
   </anime>
   <anime anidbid="16024" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Zannen na Ikimono Jiten (2021)</name>
+  </anime>
+  <anime anidbid="16025" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Koisuru Nezumi</name>
+  </anime>
+  <anime anidbid="16026" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Tomodachi no Imouto ga Ore ni dake Uzai</name>
+  </anime>
+  <anime anidbid="16027" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Goblin Slayer 2</name>
+  </anime>
+  <anime anidbid="16028" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Tensai Ouji no Akaji Kokka Saiseijutsu</name>
+  </anime>
+  <anime anidbid="16029" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shikkaku Mon no Saikyou Kenja</name>
+  </anime>
+  <anime anidbid="16030" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Tensei Kenja no Isekai Life: Daini no Shokugyou o Ete, Sekai Saikyou ni Narimashita</name>
+  </anime>
+  <anime anidbid="16031" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shokei Shoujo no Virgin Road</name>
+  </anime>
+  <anime anidbid="16032" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth IV</name>
+  </anime>
+  <anime anidbid="16033" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Summer Time Render</name>
+  </anime>
+  <anime anidbid="16035" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Jouran: The Princess of Snow and Blood</name>
+  </anime>
+  <anime anidbid="16036" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shinigami Bocchan to Kuro Maid</name>
+  </anime>
+  <anime anidbid="16037" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Pacific Rim: The Black</name>
+  </anime>
+  <anime anidbid="16038" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Seven Knights Revolution:  Eiyuu no Keishousha</name>
+  </anime>
+  <anime anidbid="16039" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Fanren Xiu Xian Chuan Tebie Pian</name>
   </anime>
 </anime-list>
