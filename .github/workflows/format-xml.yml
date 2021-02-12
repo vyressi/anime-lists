@@ -12,7 +12,7 @@ jobs:
           ref: ${{ github.head_ref }}
       - name: Format xmls
         run: |
-          sudo apt-get install xsltproc
+          sudo apt-get install xsltproc libxml2-utils
           for f in *.xml; do xmllint --format --output "$f" "$f"; done
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
