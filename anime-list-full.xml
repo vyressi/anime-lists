@@ -28896,7 +28896,7 @@
   <anime anidbid="11251" tvdbid="295897" defaulttvdbseason="1">
     <name>Bikini Warriors</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="2" end="7" offset="2"/>
+      <mapping anidbseason="0" tvdbseason="0">;1-13;</mapping>
     </mapping-list>
     <before>;2-3;</before>
   </anime>
@@ -30256,11 +30256,8 @@
   <anime anidbid="12280" tvdbid="315099" defaulttvdbseason="1">
     <name>Nazotokine</name>
   </anime>
-  <anime anidbid="12283" tvdbid="295897" defaulttvdbseason="0">
+  <anime anidbid="12283" tvdbid="295897" defaulttvdbseason="0" episodeoffset="13">
     <name>Bikini Warriors (2016)</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;2-3;3-10;4-0;5-0;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="12284" tvdbid="301920" defaulttvdbseason="0" imdbid="tt6210806">
     <name>Monster Strike The Movie: Hajimari no Basho e</name>
