@@ -30540,6 +30540,9 @@
   <anime anidbid="15627" tvdbid="300989" defaulttvdbseason="3">
     <name>Osomatsu-san (2020)</name>
   </anime>
+  <anime anidbid="15628" tvdbid="396903" defaulttvdbseason="1">
+    <name>Shakunetsu Kabaddi</name>
+  </anime>
   <anime anidbid="15647" tvdbid="395022" defaulttvdbseason="1">
     <name>World Witches Hasshin Shimasu!</name>
   </anime>
@@ -30588,6 +30591,9 @@
   <anime anidbid="15774" tvdbid="385542" defaulttvdbseason="1" episodeoffset="11">
     <name>Yuukoku no Moriarty (2021)</name>
   </anime>
+  <anime anidbid="15779" tvdbid="396876" defaulttvdbseason="1">
+    <name>Shadows House</name>
+  </anime>
   <anime anidbid="15806" tvdbid="354198" defaulttvdbseason="3">
     <name>Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren'ai Zunousen 3</name>
   </anime>
@@ -30596,6 +30602,12 @@
   </anime>
   <anime anidbid="15811" tvdbid="391006" defaulttvdbseason="1">
     <name>Tenkuu Shinpan</name>
+  </anime>
+  <anime anidbid="15812" tvdbid="391005" defaulttvdbseason="1">
+    <name>Gokushufudou</name>
+  </anime>
+  <anime anidbid="15813" tvdbid="391008" defaulttvdbseason="1">
+    <name>Thermae Romae Novae</name>
   </anime>
   <anime anidbid="15847" tvdbid="394705" defaulttvdbseason="1">
     <name>Abciee Shuugyou Nikki</name>
@@ -30629,6 +30641,9 @@
   </anime>
   <anime anidbid="15955" tvdbid="337336" defaulttvdbseason="3">
     <name>Idolish Seven (2021)</name>
+  </anime>
+  <anime anidbid="15989" tvdbid="397208" defaulttvdbseason="1">
+    <name>Odd Taxi</name>
   </anime>
   <anime anidbid="16027" tvdbid="350166" defaulttvdbseason="2">
     <name>Goblin Slayer 2</name>
