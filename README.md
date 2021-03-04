@@ -107,7 +107,7 @@ The mapping-list node consists of one or more **mapping** nodes with the followi
     The start, end, and offset attributes are not necessary if only individual episodes are being mapped.
     The offset and/or episodeoffset will be ignored in favour of an individual mapping.
 
-    Episodes on AniDb.net that don't match anything on theTVDB.com are mapped to 0 (or 99) if and only if there's a conflict.
+    Episodes on AniDb.net that don't match anything on theTVDB.com are mapped to 0 if and only if there's a conflict.
 
 #### supplemental-info ####
 The supplemental-info node may contain an optional attribute of **replace="true"**, in which case the information will replace that supplied by AniDb.net, otherwise it is just added to (and prioritised over) the AniDb.net information.
