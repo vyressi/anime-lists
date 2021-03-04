@@ -1443,7 +1443,7 @@
   <anime anidbid="343" tvdbid="72775" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
     <name>Saint Seiya: Meiou Hades Juuni Kyuu Hen</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-9;2-99;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-9;2-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="344" tvdbid="81694" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -2296,7 +2296,7 @@
   <anime anidbid="553" tvdbid="73501" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Di Gi Charat</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-5;2-6;3-7;4-8;5-9;6-10;7-11;8-12;9-13;10-0;11-17;12-0;13-0;14-0;15-0;16-0;101-98;102-99;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-5;2-6;3-7;4-8;5-9;6-10;7-11;8-12;9-13;10-0;11-17;12-0;13-0;14-0;15-0;16-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="554" tvdbid="182921" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -2422,9 +2422,6 @@
   </anime>
   <anime anidbid="590" tvdbid="72491" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Slam Dunk</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-99;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="591" tvdbid="87191" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mirai Keisatsu Urashiman</name>
@@ -6681,11 +6678,8 @@
   <anime anidbid="1948" tvdbid="112331" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Majuu Senshi Luna Varga</name>
   </anime>
-  <anime anidbid="1949" tvdbid="82736" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="1949" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Dondon Dommel to Ron</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="1">;1-1+2;2-3+4;3-5+6;4-7+8;5-9+10;6-11+12;7-13+14;8-15+16;9-17+18;10-19+20;11-21+22;12-23+24;13-25+26;14-27+28;15-29+30;16-31+32;17-33+34;18-35+36;19-37+38;20-39+40;21-41+42;22-43+44;23-45+46;24-47+48;25-49+50;26-51+52;27-53+54;28-55+56;29-57+58;30-59+60;31-61+62;32-63+64;33-65+66;34-67+68;35-69+70;36-71+72;37-73+74;38-75+76;39-77+78;40-79+80;41-81+82;42-83+84;43-85+86;44-87+88;45-89+90;46-91+92;47-93+94;48-95+96;49-97+98;50-99+100;51-101+102;52-103+104;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="1950" tvdbid="138841" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Nanami-chan</name>
@@ -8109,7 +8103,7 @@
   <anime anidbid="2389" tvdbid="81092" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Black Jack (2004)</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-6;2-99;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-6;2-8;3-0;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Tezuka Productions</studio>
@@ -8239,9 +8233,6 @@
   </anime>
   <anime anidbid="2430" tvdbid="81115" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0808082">
     <name>Mahou Shoujo Lyrical Nanoha</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-99;2-99;3-99;4-99;5-99;6-99;7-99;8-99;9-99;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="2431" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shuuchuu Chiryou Shitsu</name>
@@ -10787,9 +10778,6 @@
   </anime>
   <anime anidbid="3440" tvdbid="81115" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Mahou Shoujo Lyrical Nanoha A's</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-99;2-99;3-99;4-99;5-99;6-99;7-99;8-99;9-99;10-99;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="3442" tvdbid="79232" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Last Order: Final Fantasy VII</name>
@@ -11564,9 +11552,6 @@
   </anime>
   <anime anidbid="3705" tvdbid="72775" defaulttvdbseason="5" episodeoffset="" tmdbid="" imdbid="">
     <name>Saint Seiya: Meiou Hades Meikai Hen</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-99;2-99;3-99;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="3706" tvdbid="84049" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>I''s Pure</name>
@@ -13571,9 +13556,6 @@
   </anime>
   <anime anidbid="4688" tvdbid="81115" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Mahou Shoujo Lyrical Nanoha StrikerS</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-99;2-99;3-99;4-99;5-99;6-99;7-99;8-99;9-99;10-99;11-99;12-99;13-99;14-99;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="4690" tvdbid="web" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Armored Core: Fort Tower Song</name>
@@ -16720,12 +16702,8 @@
   <anime anidbid="6073" tvdbid="84230" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Junjou Romantica 2</name>
   </anime>
-  <anime anidbid="6075" tvdbid="81115" defaulttvdbseason="0" episodeoffset="" tmdbid="50716" imdbid="tt1587216">
+  <anime anidbid="6075" tvdbid="81115" defaulttvdbseason="0" episodeoffset="9" tmdbid="50716" imdbid="tt1587216">
     <name>Magical Girl Lyrical Nanoha The Movie 1st</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-99;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;1-10;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="6078" tvdbid="167921" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1260507">
     <name>Sore Ike! Anpanman: Yousei Rinrin no Himitsu</name>
@@ -17611,7 +17589,6 @@
   <anime anidbid="6470" tvdbid="72775" defaulttvdbseason="7" episodeoffset="" tmdbid="" imdbid="">
     <name>Saint Seiya: The Lost Canvas - Meiou Shinwa</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-99;2-99;</mapping>
       <mapping anidbseason="1" tvdbseason="7">;1-1;2-2;3-3;4-4;5-5;6-6;7-7;8-8;9-9;10-10;11-11;12-12;13-13;</mapping>
       <mapping anidbseason="1" tvdbseason="8">;14-1;15-2;16-3;17-4;18-5;19-6;20-7;21-8;22-9;23-10;24-11;25-12;26-13;</mapping>
     </mapping-list>
@@ -22882,11 +22859,8 @@
       <mapping anidbseason="0" tvdbseason="0">;1-7;2-1;3-2;4-3;5-4;6-5;7-6;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="8279" tvdbid="72775" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt2231489">
+  <anime anidbid="8279" tvdbid="72775" defaulttvdbseason="0" episodeoffset="7" tmdbid="" imdbid="tt2231489">
     <name>Saint Seiya: Legend of Sanctuary</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-99;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="8280" tvdbid="87501" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1909796">
     <name>Eiga K-On!</name>
@@ -24426,12 +24400,8 @@
   <anime anidbid="8820" tvdbid="259641" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Koi to Senkyo to Chocolate</name>
   </anime>
-  <anime anidbid="8821" tvdbid="81115" defaulttvdbseason="0" episodeoffset="" tmdbid="181522" imdbid="">
+  <anime anidbid="8821" tvdbid="81115" defaulttvdbseason="0" episodeoffset="10" tmdbid="181522" imdbid="">
     <name>Magical Girl Lyrical Nanoha The Movie 2nd A's</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-99;2-99;3-99;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;1-11;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="8822" tvdbid="257891" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Koi-ken! Watashitachi Anime ni Nacchatta!</name>
@@ -27025,12 +26995,8 @@
   <anime anidbid="9787" tvdbid="272314" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ore no Nounai Sentakushi ga, Gakuen Lovecome o Zenryoku de Jama Shite Iru</name>
   </anime>
-  <anime anidbid="9788" tvdbid="81115" defaulttvdbseason="0" episodeoffset="" tmdbid="432057" imdbid="">
+  <anime anidbid="9788" tvdbid="81115" defaulttvdbseason="0" episodeoffset="12" tmdbid="432057" imdbid="tt3967976">
     <name>Magical Girl Lyrical Nanoha Reflection</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-99;2-99;3-99;4-99;5-99;6-99;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;1-16;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="9789" tvdbid="219701" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Freezing Vibration</name>
@@ -33558,7 +33524,7 @@
   <anime anidbid="12264" tvdbid="81115" defaulttvdbseason="5" episodeoffset="" tmdbid="" imdbid="">
     <name>ViVid Strike!</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-99;2-13;3-14;4-15;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="14"/>
     </mapping-list>
   </anime>
   <anime anidbid="12265" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -36453,11 +36419,8 @@
   <anime anidbid="13300" tvdbid="339401" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Dame x Prince Anime Caravan</name>
   </anime>
-  <anime anidbid="13301" tvdbid="81115" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13301" tvdbid="81115" defaulttvdbseason="0" episodeoffset="13" tmdbid="547912" imdbid="tt9164818">
     <name>Magical Girl Lyrical Nanoha Detonation</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-17;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="13302" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Nori P-chan</name>
@@ -40731,11 +40694,8 @@
   <anime anidbid="14796" tvdbid="259640" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
     <name>Sword Art Online: Alicization - War of Underworld</name>
   </anime>
-  <anime anidbid="14797" tvdbid="313435" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14797" tvdbid="313435" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="">
     <name>Saiki Kusuo no Sainan: Saishidou Hen</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-98;2-99;3-100;4-101;5-102;6-103</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="14798" tvdbid="372959" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ochikobore Fruit Tart</name>
