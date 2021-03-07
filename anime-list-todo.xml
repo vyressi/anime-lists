@@ -4669,7 +4669,6 @@
   <anime anidbid="13029" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kuruneko (2017)</name>
   </anime>
-  <!-- there is no 1:1 episode mapping possible -->
   <anime anidbid="13040" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Soutai Sekai</name>
   </anime>
@@ -6306,7 +6305,7 @@
     <name>Otsukimi Recital</name>
   </anime>
   <anime anidbid="14017" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Gekijouban High School Fleet</name>
+    <name>High School Fleet Gekijouban</name>
   </anime>
   <anime anidbid="14018" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Oamu Monogatari: Sono Natsu, Watashi ga Shitta Koto</name>
@@ -9507,7 +9506,7 @@
     <name>Anime Capybara-san</name>
   </anime>
   <anime anidbid="15756" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Osananajimi ga Zettai ni Makenai Love Come</name>
+    <name>Osananajimi ga Zettai ni Makenai LoveCome</name>
   </anime>
   <anime anidbid="15757" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Ecchi Shiboraretai</name>
@@ -10367,5 +10366,65 @@
   <anime anidbid="16078" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>RPG Fudousan</name>
   </anime>
+  <anime anidbid="16079" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Wasureta Furi wo Shite</name>
+  </anime>
+  <anime anidbid="16080" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kamiari Algorithm</name>
+  </anime>
+  <anime anidbid="16081" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Mahouka Koukou no Rettousei: Tsuioku Hen</name>
+  </anime>
+  <anime anidbid="16082" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Meijyou</name>
+  </anime>
+  <anime anidbid="16083" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kindan Joshi</name>
+  </anime>
+  <anime anidbid="16084" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Mazica Party</name>
+  </anime>
+  <anime anidbid="16085" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Akachan Honbuchou</name>
+  </anime>
+  <anime anidbid="16086" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kazoku: Haha to Shimai no Kyousei</name>
+  </anime>
+  <anime anidbid="16087" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Hyakkiya Tantei Jimusho: Hyakkiya Hikari no Youkai Jikenbo</name>
+  </anime>
+  <anime anidbid="16088" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Boku ga Motteru Mono Nara</name>
+  </anime>
+  <anime anidbid="16089" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Bessatsu Kamen Rider Saber: Tanpen Katsudou Mangashuu</name>
+  </anime>
+  <anime anidbid="16090" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Re-Main</name>
+  </anime>
+  <anime anidbid="16091" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Totsukuni no Shoujo (2022)</name>
+  </anime>
+  <anime anidbid="16092" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Aria the Benedizione</name>
+  </anime>
+  <anime anidbid="16093" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Baten Kaitos</name>
+  </anime>
+  <anime anidbid="16094" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Aftermath</name>
+  </anime>
+  <anime anidbid="16095" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Chikai: Day of Promise</name>
+  </anime>
+  <anime anidbid="16096" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Slide</name>
+  </anime>
+  <anime anidbid="16097" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shaonu Qianxian: Renxing Xiao Juchang 2</name>
+  </anime>
+  <anime anidbid="16098" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Dahua Zhi Shaonian You</name>
+  </anime>
 </anime-list>
-<!--3449 titles remaining-->
+<!--3469 titles remaining-->
