@@ -30997,8 +30997,12 @@
   <anime anidbid="13031" tvdbid="328827" defaulttvdbseason="1">
     <name>Princess Principal</name>
   </anime>
-  <anime anidbid="13033" tvdbid="unknown">
+  <anime anidbid="13033" tvdbid="102261" defaulttvdbseason="5">
     <name>Owarimonogatari (2017)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="5">;1-0;2-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="5">;1-0;2-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13034" tvdbid="344220" defaulttvdbseason="1">
     <name>Uma Musume: Pretty Derby</name>
