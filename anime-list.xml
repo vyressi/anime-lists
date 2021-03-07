@@ -30595,6 +30595,9 @@
   <anime anidbid="15952" tvdbid="394013" defaulttvdbseason="1">
     <name>Mahouka Koukou no Yuutousei</name>
   </anime>
+  <anime anidbid="15954" tvdbid="371310" defaulttvdbseason="1" episodeoffset="11">
+    <name>Mushoku Tensei: Isekai Ittara Honki Dasu (2021)</name>
+  </anime>
   <anime anidbid="15955" tvdbid="337336" defaulttvdbseason="3">
     <name>Idolish Seven (2021)</name>
   </anime>
@@ -30609,5 +30612,14 @@
   </anime>
   <anime anidbid="16054" tvdbid="348545" defaulttvdbseason="2">
     <name>Kimetsu no Yaiba: Yuukaku Hen</name>
+  </anime>
+  <anime anidbid="16101" tvdbid="375927" defaulttvdbseason="2">
+    <name>Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou 2 (1 Cour)</name>
+  </anime>
+  <anime anidbid="16102" tvdbid="375927" defaulttvdbseason="2" episodeoffset="13">
+    <name>Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou 2 (2 Cour)</name>
+  </anime>
+  <anime anidbid="16104" tvdbid="267441" defaulttvdbseason="2">
+    <name>Hataraku Maou-sama! 2</name>
   </anime>
 </anime-list>
