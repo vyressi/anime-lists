@@ -31000,8 +31000,8 @@
   <anime anidbid="13033" tvdbid="102261" defaulttvdbseason="5">
     <name>Owarimonogatari (2017)</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="5">;1-0;2-0;</mapping>
       <mapping anidbseason="0" tvdbseason="5">;1-0;2-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="5">;1-0;2-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="13034" tvdbid="344220" defaulttvdbseason="1">
@@ -33048,7 +33048,7 @@
     <name>Ero Lover</name>
   </anime>
   <anime anidbid="14776" tvdbid="305074" defaulttvdbseason="0" episodeoffset="6">
-    <name>Boku no Hero Academia the Movie: Heroes:Rising</name>
+    <name>Boku no Hero Academia the Movie - Heroes:Rising</name>
   </anime>
   <anime anidbid="14777" tvdbid="368757" defaulttvdbseason="1" imdbid="tt10054654">
     <name>Keishichou Tokumu Bu Tokushu Kyouakuhan Taisaku Shitsu Dai Nana Ka: Tokunana</name>
@@ -33189,7 +33189,7 @@
     <name>More</name>
   </anime>
   <anime anidbid="14918" tvdbid="359095" defaulttvdbseason="0">
-    <name>Bokutachi wa Benkyou ga Dekinai OAD</name>
+    <name>Bokutachi wa Benkyou ga Dekinai: Nagisa ni Usemono Arite Senjin wa Enzen to [X] Suru</name>
   </anime>
   <anime anidbid="14922" tvdbid="362877" defaulttvdbseason="7">
     <name>Yami Shibai 7</name>
