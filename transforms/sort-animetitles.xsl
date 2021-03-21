@@ -1,17 +1,18 @@
 <xsl:stylesheet
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
-  <xsl:output method="xml" encoding="UTF-8" />
+  <xsl:output method="xml" indent="yes" encoding="UTF-8" />
+  <xsl:strip-space elements="*"/>
 
   <xsl:template name="newline">
     <xsl:text disable-output-escaping="yes">
 </xsl:text>
   </xsl:template>
   <xsl:template name="indent">
-    <xsl:text disable-output-escaping="yes">	</xsl:text>
+    <xsl:text disable-output-escaping="yes">  </xsl:text>
   </xsl:template>
 
-  <xsl:template match="node()|@*">
+  <xsl:template match="*|@*">
     <xsl:copy>
       <xsl:apply-templates select="@*" />
       <xsl:apply-templates />
@@ -19,7 +20,6 @@
   </xsl:template>
 
   <xsl:template match="comment()">
-    <xsl:call-template name="newline" />
     <xsl:call-template name="newline" />
     <xsl:copy>
       <xsl:apply-templates select="@*" />
