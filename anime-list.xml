@@ -22333,7 +22333,7 @@
   <anime anidbid="9541" tvdbid="267440" defaulttvdbseason="1">
     <name>Shingeki no Kyojin</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;2-3;3-4;4-5;5-6;6-7;8-9;9-10;10-11;11-0;12-0;13-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-1;2-2;3-3;4-4;5-5;6-6;7-8;8-9;9-10;10-11;11-0;12-0;13-0;14-0;15-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9546" tvdbid="275614" defaulttvdbseason="1">
@@ -24395,7 +24395,7 @@
   <anime anidbid="10583" tvdbid="267440" defaulttvdbseason="0" imdbid="tt3646944,tt3646946">
     <name>Gekijouban Shingeki no Kyojin</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-14;2-15;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-14;2-18;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10584" tvdbid="OVA" defaulttvdbseason="1">
@@ -28443,7 +28443,7 @@
   <anime anidbid="13546" tvdbid="267440" defaulttvdbseason="0" imdbid="tt7941892">
     <name>Gekijouban Shingeki no Kyojin Season 2: Kakusei no Houkou</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-23;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-21;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="13548" tvdbid="270065" defaulttvdbseason="3">
