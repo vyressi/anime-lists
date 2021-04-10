@@ -30568,6 +30568,9 @@
   </anime>
   <anime anidbid="15660" tvdbid="398106" defaulttvdbseason="1">
     <name>Yakunara Mug Cup mo</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" offset="-1"/>
+    </mapping-list>
   </anime>
   <anime anidbid="15666" tvdbid="397965" defaulttvdbseason="1">
     <name>Mashiro no Oto</name>
