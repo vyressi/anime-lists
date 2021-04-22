@@ -43046,7 +43046,7 @@
     <name>Yakunara Mug Cup mo</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
-      <mapping anidbseason="0" tvdbseason="0" start="2" end="13" offset="-1"></mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="13" offset="-1"/>
     </mapping-list>
   </anime>
   <anime anidbid="15661" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
