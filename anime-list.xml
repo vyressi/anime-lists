@@ -29733,6 +29733,9 @@
   </anime>
   <anime anidbid="14678" tvdbid="318893" defaulttvdbseason="2">
     <name>Kobayashi-san Chi no Maidragon S</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="13" offset="8"/>
+    </mapping-list>
   </anime>
   <anime anidbid="14679" tvdbid="movie" defaulttvdbseason="1" tmdbid="594188" imdbid="tt9760504">
     <name>Ni no Kuni</name>
