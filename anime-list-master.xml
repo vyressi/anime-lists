@@ -6863,7 +6863,7 @@
   </anime>
   <anime anidbid="2002" tvdbid="79101" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Air</name>
-	<mapping-list>
+    <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;</mapping>
     </mapping-list>
   </anime>
