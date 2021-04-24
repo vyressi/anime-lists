@@ -1091,6 +1091,13 @@
   </anime>
   <anime anidbid="239" tvdbid="78857" defaulttvdbseason="a">
     <name>Naruto</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="35"/>
+      <mapping anidbseason="1" tvdbseason="2" start="36" end="83" offset="-35"/>
+      <mapping anidbseason="1" tvdbseason="3" start="84" end="131" offset="-83"/>
+      <mapping anidbseason="1" tvdbseason="4" start="132" end="179" offset="-131"/>
+      <mapping anidbseason="1" tvdbseason="5" start="180" end="220" offset="-179"/>
+    </mapping-list>
   </anime>
   <anime anidbid="240" tvdbid="72726" defaulttvdbseason="1">
     <name>Gasaraki</name>
@@ -2413,7 +2420,7 @@
   <anime anidbid="573" tvdbid="hentai" defaulttvdbseason="1">
     <name>Lunatic Night</name>
   </anime>
-  <anime anidbid="574" tvdbid="201571" defaulttvdbseason="1">
+  <anime anidbid="574" tvdbid="253938" defaulttvdbseason="2">
     <name>Memories Off 2nd</name>
   </anime>
   <anime anidbid="575" tvdbid="79179" defaulttvdbseason="1">
@@ -8126,7 +8133,7 @@
   <anime anidbid="2603" tvdbid="hentai" defaulttvdbseason="1">
     <name>Chikansha Thomas</name>
   </anime>
-  <anime anidbid="2604" tvdbid="201581" defaulttvdbseason="1">
+  <anime anidbid="2604" tvdbid="253938" defaulttvdbseason="3">
     <name>Memories Off 3.5</name>
   </anime>
   <anime anidbid="2605" tvdbid="75869" defaulttvdbseason="1">
@@ -10761,7 +10768,7 @@
       <mapping anidbseason="0" tvdbseason="0">;1-14;2-15;3-16;4-17;5-18;6-0;7-0;8-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="4139" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
+  <anime anidbid="4139" tvdbid="253938" defaulttvdbseason="0" imdbid="unknown">
     <name>Memories Off #5 Togireta Film</name>
   </anime>
   <anime anidbid="4141" tvdbid="80759" defaulttvdbseason="0">
@@ -12294,6 +12301,28 @@
     <name>Naruto Shippuuden</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-5;</mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="32"/>
+      <mapping anidbseason="1" tvdbseason="2" start="33" end="53" offset="-32"/>
+      <mapping anidbseason="1" tvdbseason="3" start="54" end="71" offset="-53"/>
+      <mapping anidbseason="1" tvdbseason="4" start="72" end="88" offset="-71"/>
+      <mapping anidbseason="1" tvdbseason="5" start="89" end="112" offset="-88"/>
+      <mapping anidbseason="1" tvdbseason="6" start="113" end="143" offset="-112"/>
+      <mapping anidbseason="1" tvdbseason="7" start="144" end="151" offset="-143"/>
+      <mapping anidbseason="1" tvdbseason="8" start="152" end="175" offset="-151"/>
+      <mapping anidbseason="1" tvdbseason="9" start="176" end="196" offset="-175"/>
+      <mapping anidbseason="1" tvdbseason="10" start="197" end="222" offset="-196"/>
+      <mapping anidbseason="1" tvdbseason="11" start="223" end="242" offset="-222"/>
+      <mapping anidbseason="1" tvdbseason="12" start="243" end="260" offset="-242"/>
+      <mapping anidbseason="1" tvdbseason="13" start="261" end="295" offset="-260"/>
+      <mapping anidbseason="1" tvdbseason="14" start="296" end="320" offset="-295"/>
+      <mapping anidbseason="1" tvdbseason="15" start="321" end="348" offset="-320"/>
+      <mapping anidbseason="1" tvdbseason="16" start="349" end="361" offset="-348"/>
+      <mapping anidbseason="1" tvdbseason="17" start="362" end="393" offset="-361"/>
+      <mapping anidbseason="1" tvdbseason="18" start="394" end="413" offset="-393"/>
+      <mapping anidbseason="1" tvdbseason="19" start="414" end="431" offset="-413"/>
+      <mapping anidbseason="1" tvdbseason="20" start="432" end="450" offset="-431"/>
+      <mapping anidbseason="1" tvdbseason="21" start="451" end="458" offset="-450"/>
+      <mapping anidbseason="1" tvdbseason="22" start="459" end="500" offset="-458"/>
     </mapping-list>
   </anime>
   <anime anidbid="4884" tvdbid="84027" defaulttvdbseason="1">
