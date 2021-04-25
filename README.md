@@ -103,6 +103,8 @@ The mapping-list node consists of one or more **mapping** nodes with the followi
 
     The format for mapping individual episodes is: ` ;1-5;2-6;...; ` where the first number in each mapping is the AniDb.net episode number
     and the second is the corresponding theTVDB.com episode number for the season specified.
+    
+    AniDB trailer episodes with prefix T can be mapped by using episode numbers >= 201, T1 = 201. "Other" episodes can be mapped using episode numbers >= 401, O1 = 401.
 
     The start, end, and offset attributes are not necessary if only individual episodes are being mapped.
     The offset and/or episodeoffset will be ignored in favour of an individual mapping.
