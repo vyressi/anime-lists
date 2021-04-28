@@ -30288,6 +30288,9 @@
   </anime>
   <anime anidbid="15111" tvdbid="289882" defaulttvdbseason="3">
     <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth III</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-5;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="15113" tvdbid="348545" defaulttvdbseason="0">
     <name>Gekijouban Kimetsu no Yaiba: Mugen Ressha Hen</name>
