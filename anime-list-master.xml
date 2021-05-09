@@ -3436,7 +3436,7 @@
     <name>Ojamajo Doremi</name>
   </anime>
   <anime anidbid="889" tvdbid="79193" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Sumeba Miyako no Cosmos-sou Suttoko Taisen Dokkoida</name>
+    <name>Sumeba Miyako no Cosmos-sou Suttoko Taisen Dokkoider</name>
   </anime>
   <anime anidbid="890" tvdbid="73749" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0347246">
     <name>Innocence</name>
@@ -41301,9 +41301,6 @@
   <anime anidbid="15014" tvdbid="374471" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Rebirth</name>
   </anime>
-  <anime anidbid="15015" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Futon no naka kara detakunai</name>
-  </anime>
   <anime anidbid="15016" tvdbid="374472" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Oda Shinamon Nobunaga</name>
   </anime>
@@ -41312,9 +41309,6 @@
   </anime>
   <anime anidbid="15018" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Gusha no Parade</name>
-  </anime>
-  <anime anidbid="15019" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Yamiyo</name>
   </anime>
   <anime anidbid="15020" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Jurassic!</name>
@@ -41375,12 +41369,6 @@
   </anime>
   <anime anidbid="15040" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Idomo</name>
-  </anime>
-  <anime anidbid="15041" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kirari Kagayaku</name>
-  </anime>
-  <anime anidbid="15042" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Haha no Shinbou to, shiawase to.</name>
   </anime>
   <anime anidbid="15043" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Jumbagi: Hanbandoui Gongryong 3D</name>
@@ -42211,7 +42199,7 @@
     <name>Digimon Adventure:</name>
   </anime>
   <anime anidbid="15359" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Made in Abyss (Zokuhen)</name>
+    <name>Made in Abyss: Retsujitsu no Ougonkyou</name>
   </anime>
   <anime anidbid="15360" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Nizhuan Ciyuan: AI Jueqi</name>
@@ -43168,9 +43156,6 @@
   <anime anidbid="15708" tvdbid="394143" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sayonara Watashi no Cramer</name>
   </anime>
-  <anime anidbid="15709" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Sayounara Kara Hajimaru Monogatari</name>
-  </anime>
   <anime anidbid="15710" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Sakura Kakumei: Hana Saku Otome-tachi</name>
   </anime>
@@ -43836,9 +43821,6 @@
   </anime>
   <anime anidbid="15947" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Man with a Mission The Animation</name>
-  </anime>
-  <anime anidbid="15948" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Sore Ike! Anpanman: Anpanman no Jin-Jin-Jingle Bells</name>
   </anime>
   <anime anidbid="15949" tvdbid="346744" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
     <name>Aggressive Retsuko 4</name>
@@ -44826,5 +44808,32 @@
   </anime>
   <anime anidbid="16290" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Shiguan Daliren</name>
+  </anime>
+  <anime anidbid="16291" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Bai Gui Youeryuan Di 3 Ji</name>
+  </anime>
+  <anime anidbid="16292" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Chocosanji</name>
+  </anime>
+  <anime anidbid="16293" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Niguang Zhi Chan</name>
+  </anime>
+  <anime anidbid="16295" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Gotta Fuck 'Em All!</name>
+  </anime>
+  <anime anidbid="16296" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Overlord IV</name>
+  </anime>
+  <anime anidbid="16297" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Gekijouban Overlord</name>
+  </anime>
+  <anime anidbid="16298" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Liang Bu Yi</name>
+  </anime>
+  <anime anidbid="16299" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Yoshimaho</name>
+  </anime>
+  <anime anidbid="16300" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Komi-san wa, Komyushou desu.</name>
   </anime>
 </anime-list>
