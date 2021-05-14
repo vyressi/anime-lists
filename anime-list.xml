@@ -4067,6 +4067,9 @@
   <anime anidbid="1077" tvdbid="81849" defaulttvdbseason="0" episodeoffset="1" imdbid="tt0189559">
     <name>Golgo 13: Queen Bee</name>
   </anime>
+  <anime anidbid="1078" tvdbid="252696" defaulttvdbseason="1">
+    <name>Doraemon (1979)</name>
+  </anime>
   <anime anidbid="1079" tvdbid="181001" defaulttvdbseason="1">
     <name>Submarine 707R</name>
   </anime>
@@ -4831,6 +4834,9 @@
   </anime>
   <anime anidbid="1350" tvdbid="80443" defaulttvdbseason="0">
     <name>Sol Bianca</name>
+  </anime>
+  <anime anidbid="1351" tvdbid="73518" defaulttvdbseason="1">
+    <name>Mitsubachi Maaya no Bouken</name>
   </anime>
   <anime anidbid="1352" tvdbid="86651" defaulttvdbseason="1">
     <name>8 Man</name>
@@ -6129,6 +6135,9 @@
   <anime anidbid="1824" tvdbid="111011" defaulttvdbseason="1">
     <name>Kochira Katsushikaku Kameari Kouenmae Hashutsujo (1996)</name>
   </anime>
+  <anime anidbid="1825" tvdbid="81643" defaulttvdbseason="1">
+    <name>Chiisana Viking Vickie</name>
+  </anime>
   <anime anidbid="1828" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt0432146">
     <name>Iron Virgin Jun</name>
   </anime>
@@ -6740,6 +6749,9 @@
   </anime>
   <anime anidbid="2109" tvdbid="hentai" defaulttvdbseason="1">
     <name>Hanappe Bazooka</name>
+  </anime>
+  <anime anidbid="2110" tvdbid="75141" defaulttvdbseason="1">
+    <name>Doraemon</name>
   </anime>
   <anime anidbid="2111" tvdbid="hentai" defaulttvdbseason="1">
     <name>Youkou no Ken</name>
@@ -8131,6 +8143,12 @@
   <anime anidbid="2634" tvdbid="234941" defaulttvdbseason="1">
     <name>Yuusha Keisatsu J-Decker</name>
   </anime>
+  <anime anidbid="2635" tvdbid="197971" defaulttvdbseason="1">
+    <name>Karasu Tengu Kabuto</name>
+  </anime>
+  <anime anidbid="2636" tvdbid="197971" defaulttvdbseason="0">
+    <name>Karasu Tengu Kabuto: Ougon no Me no Kemono</name>
+  </anime>
   <anime anidbid="2638" tvdbid="72493" defaulttvdbseason="0" imdbid="tt0160869">
     <name>Silent Mobius 2</name>
     <mapping-list>
@@ -8418,6 +8436,17 @@
   </anime>
   <anime anidbid="2743" tvdbid="78883" defaulttvdbseason="1">
     <name>Peach Girl</name>
+  </anime>
+  <anime anidbid="2744" tvdbid="85318" defaulttvdbseason="1">
+    <name>Fushigi no Kuni no Alice</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="1">;1-13;</mapping>
+      <mapping anidbseason="0" tvdbseason="3" start="3" end="14" offset="-2"/>
+      <mapping anidbseason="0" tvdbseason="4" start="15" end="19" offset="-14"/>
+      <mapping anidbseason="0" tvdbseason="4" start="21" end="28" offset="-20"/>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="12"/>
+      <mapping anidbseason="1" tvdbseason="2" start="13" end="23" offset="-12"/>
+    </mapping-list>
   </anime>
   <anime anidbid="2745" tvdbid="78884" defaulttvdbseason="1">
     <name>Starship Operators</name>
@@ -10193,6 +10222,9 @@
   </anime>
   <anime anidbid="3660" tvdbid="252853" defaulttvdbseason="1">
     <name>Hakugei Densetsu</name>
+  </anime>
+  <anime anidbid="3663" tvdbid="73518" defaulttvdbseason="2">
+    <name>Shin Mitsubachi Maaya no Bouken</name>
   </anime>
   <anime anidbid="3664" tvdbid="251915" defaulttvdbseason="1">
     <name>Kojika Monogatari</name>
