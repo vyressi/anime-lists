@@ -11740,7 +11740,7 @@
     <name>Chocchan Monogatari</name>
   </anime>
   <anime anidbid="4003" tvdbid="79840" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Otome wa Boku ni Koishiteru</name>
+    <name>Otome wa Boku ni Koi Shiteru</name>
   </anime>
   <anime anidbid="4004" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Kirara</name>
@@ -35438,7 +35438,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="12953" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Eiga Kaiketsu Zorori: ZZ no Himitsu</name>
+    <name>Eiga Kaiketsu Zorori: Double Z no Himitsu</name>
   </anime>
   <anime anidbid="12954" tvdbid="275613" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Hoozuki no Reitetsu (2017)</name>
@@ -38670,7 +38670,7 @@
     <name>Chikyuugai Shounen Shoujo</name>
   </anime>
   <anime anidbid="14092" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Uchuu no Hou: Reimei Hen</name>
+    <name>Uchuu no Hou</name>
   </anime>
   <anime anidbid="14093" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Nidome no Jinsei o Isekai de</name>
@@ -40212,7 +40212,7 @@
     <name>Megane no Megami</name>
   </anime>
   <anime anidbid="14626" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Dragon Ball Super (Shin)</name>
+    <name>Dragon Ball Super (2022)</name>
   </anime>
   <anime anidbid="14627" tvdbid="359645" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Fairy Gone</name>
@@ -44833,7 +44833,7 @@
     <name>Overlord IV</name>
   </anime>
   <anime anidbid="16297" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Gekijouban Overlord</name>
+    <name>Gekijouban Overlord: Sei Oukoku Hen</name>
   </anime>
   <anime anidbid="16298" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Liang Bu Yi</name>
@@ -44842,6 +44842,54 @@
     <name>Yoshimaho</name>
   </anime>
   <anime anidbid="16300" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Komi-san wa, Komyushou desu.</name>
+    <name>Komi-san wa, Komyushou Desu.</name>
+  </anime>
+  <anime anidbid="16301" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Meitantei Conan: Shakunetsu no Galactic Railway</name>
+  </anime>
+  <anime anidbid="16302" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shimajirou to Nagareboshi no Negaigoto</name>
+  </anime>
+  <anime anidbid="16303" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Crayon Shin-chan: Hoshizora to Gakkou no Nana Fushigi Dazo!</name>
+  </anime>
+  <anime anidbid="16304" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Moon Night Monster</name>
+  </anime>
+  <anime anidbid="16305" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Jurassic Heroes: Hoshizora no Keibitai</name>
+  </anime>
+  <anime anidbid="16306" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Chikyuu wa Guruguru Merry-Go-Round</name>
+  </anime>
+  <anime anidbid="16307" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Colorful Taiyou Tour</name>
+  </anime>
+  <anime anidbid="16309" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xin Shen Bang: Nezha Chong Sheng</name>
+  </anime>
+  <anime anidbid="16310" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Love Live! Nijigasaki Gakuen School Idol Doukoukai (2022)</name>
+  </anime>
+  <anime anidbid="16311" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Stand My Heroes: Map Story</name>
+  </anime>
+  <anime anidbid="16312" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Tian Bao Fuyao Lu 2</name>
+  </anime>
+  <anime anidbid="16313" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Ling Long: Incarnation Zhong Zhang</name>
+  </anime>
+  <anime anidbid="16314" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Hua Jianghu: Buliang Ren 4</name>
+  </anime>
+  <anime anidbid="16315" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Video Ranger 007</name>
+  </anime>
+  <anime anidbid="16316" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Hairpin Double</name>
+  </anime>
+  <anime anidbid="16317" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Succubus Appli: Gakuen Sai*</name>
   </anime>
 </anime-list>
