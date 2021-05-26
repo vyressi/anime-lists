@@ -1700,7 +1700,7 @@
   <anime anidbid="396" tvdbid="85073" defaulttvdbseason="1">
     <name>Geobreeders: File-X Chibi Neko Dakkan</name>
   </anime>
-  <anime anidbid="397" tvdbid="81472" defaulttvdbseason="0" episodeoffset="12" imdbid="tt0142243">
+  <anime anidbid="397" tvdbid="81472" defaulttvdbseason="0" episodeoffset="19" imdbid="tt0142243">
     <name>Dragon Ball Z: Ryuuken Bakuhatsu!! Gokuu ga Yaraneba Dare ga Yaru</name>
   </anime>
   <anime anidbid="398" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0090658">
@@ -2272,7 +2272,7 @@
   <anime anidbid="547" tvdbid="120121" defaulttvdbseason="2">
     <name>VS Knight Ramune &amp; 40 Fresh</name>
   </anime>
-  <anime anidbid="548" tvdbid="81472" defaulttvdbseason="0" episodeoffset="6" imdbid="tt0142241">
+  <anime anidbid="548" tvdbid="81472" defaulttvdbseason="0" episodeoffset="8" imdbid="tt0142241">
     <name>Dragon Ball Z: Kyokugen Battle!! Sandai Super Saiya-jin</name>
   </anime>
   <anime anidbid="549" tvdbid="hentai" defaulttvdbseason="1">
@@ -3008,7 +3008,7 @@
   <anime anidbid="762" tvdbid="81472" defaulttvdbseason="0" episodeoffset="2" imdbid="tt0142233">
     <name>Dragon Ball Z: Chikyuu Marugoto Choukessen</name>
   </anime>
-  <anime anidbid="763" tvdbid="81472" defaulttvdbseason="0" episodeoffset="3" imdbid="tt0142244">
+  <anime anidbid="763" tvdbid="81472" defaulttvdbseason="0" episodeoffset="4" imdbid="tt0142244">
     <name>Dragon Ball Z: Super Saiya-jin Da Son Gokuu</name>
   </anime>
   <anime anidbid="764" tvdbid="85146" defaulttvdbseason="0">
@@ -3502,13 +3502,13 @@
   <anime anidbid="904" tvdbid="73988" defaulttvdbseason="1">
     <name>The Big O</name>
   </anime>
-  <anime anidbid="905" tvdbid="81472" defaulttvdbseason="0" episodeoffset="7" imdbid="tt0142242">
+  <anime anidbid="905" tvdbid="81472" defaulttvdbseason="0" episodeoffset="11" imdbid="tt0142242">
     <name>Dragon Ball Z: Moetsukiro!! Nessen, Ressen, Chougekisen</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;2-8;3-8;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="906" tvdbid="81472" defaulttvdbseason="0" episodeoffset="10" imdbid="tt0142234">
+  <anime anidbid="906" tvdbid="81472" defaulttvdbseason="0" episodeoffset="17" imdbid="tt0142234">
     <name>Dragon Ball Z: Super Senshi Gekiha!! Katsu no wa Ore Da</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;2-11;3-11;</mapping>
@@ -3988,10 +3988,10 @@
       <studio>Toei Animation</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="1045" tvdbid="81472" defaulttvdbseason="0" episodeoffset="4" imdbid="tt1125254">
+  <anime anidbid="1045" tvdbid="81472" defaulttvdbseason="0" episodeoffset="5" imdbid="tt1125254">
     <name>Dragon Ball Z: Tobikkiri no Saikyou tai Saikyou</name>
   </anime>
-  <anime anidbid="1046" tvdbid="81472" defaulttvdbseason="0" episodeoffset="5" imdbid="tt0142237">
+  <anime anidbid="1046" tvdbid="81472" defaulttvdbseason="0" episodeoffset="7" imdbid="tt0142237">
     <name>Dragon Ball Z: Gekitotsu!! 100-oku Power no Senshi-tachi</name>
   </anime>
   <anime anidbid="1047" tvdbid="hentai" defaulttvdbseason="1">
@@ -4064,19 +4064,19 @@
   <anime anidbid="1068" tvdbid="tv special" defaulttvdbseason="1" imdbid="tt0167006">
     <name>Battle Spirits: Ryuuko no Ken</name>
   </anime>
-  <anime anidbid="1069" tvdbid="81472" defaulttvdbseason="0" episodeoffset="8" imdbid="tt0142238">
+  <anime anidbid="1069" tvdbid="81472" defaulttvdbseason="0" episodeoffset="14" imdbid="tt0142238">
     <name>Dragon Ball Z: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;2-9;3-9;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="1070" tvdbid="81472" defaulttvdbseason="0" episodeoffset="9" imdbid="tt0285036">
+  <anime anidbid="1070" tvdbid="81472" defaulttvdbseason="0" episodeoffset="16" imdbid="tt0285036">
     <name>Dragon Ball Z: Kiken na Futari! Super Senshi wa Nemurenai</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;2-10;3-10;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="1071" tvdbid="81472" defaulttvdbseason="0" episodeoffset="11" imdbid="tt0142236">
+  <anime anidbid="1071" tvdbid="81472" defaulttvdbseason="0" episodeoffset="18" imdbid="tt0142236">
     <name>Dragon Ball Z: Fukkatsu no Fusion!! Gokuu to Vegeta</name>
   </anime>
   <anime anidbid="1072" tvdbid="85301" defaulttvdbseason="1">
@@ -5281,7 +5281,7 @@
   <anime anidbid="1473" tvdbid="141751" defaulttvdbseason="1">
     <name>Genma Taisen: Shinwa Zen'ya no Shou</name>
   </anime>
-  <anime anidbid="1474" tvdbid="81472" defaulttvdbseason="0" episodeoffset="14" imdbid="tt0142247">
+  <anime anidbid="1474" tvdbid="81472" defaulttvdbseason="0" episodeoffset="10" imdbid="tt0142247">
     <name>Dragon Ball Z: Zetsubou e no Hankou!! Nokosareta Chousenshi - Gohan to Trunks</name>
   </anime>
   <anime anidbid="1475" tvdbid="72241" defaulttvdbseason="0" episodeoffset="5" imdbid="tt0810833">
@@ -7921,7 +7921,7 @@
   <anime anidbid="2334" tvdbid="72493" defaulttvdbseason="0" imdbid="tt0102928">
     <name>Silent Mobius: The Motion Picture</name>
   </anime>
-  <anime anidbid="2336" tvdbid="81472" defaulttvdbseason="0" episodeoffset="13" imdbid="tt0142245">
+  <anime anidbid="2336" tvdbid="81472" defaulttvdbseason="0" episodeoffset="3" imdbid="tt0142245">
     <name>Dragon Ball Z Special: Tatta Hitori no Saishuu Kessen - Freezer ni Idonda Z Senshi Son Gokuu no Chichi</name>
   </anime>
   <anime anidbid="2337" tvdbid="84045" defaulttvdbseason="0" episodeoffset="13" imdbid="tt1569361">
@@ -23370,7 +23370,7 @@
     <name>High Score</name>
   </anime>
   <anime anidbid="8724" tvdbid="128411" defaulttvdbseason="0" imdbid="unknown">
-    <name>Majime ni Fumajime Kaiketsu Zorori Uchuu Tanken Taisakusen</name>
+    <name>Majime ni Fumajime Kaiketsu Zorori: Uchuu Tanken Daisakusen</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
@@ -24868,7 +24868,7 @@
   <anime anidbid="9312" tvdbid="hentai" defaulttvdbseason="1">
     <name>JK to Ero Giin-sensei</name>
   </anime>
-  <anime anidbid="9314" tvdbid="81472" defaulttvdbseason="0" episodeoffset="22" imdbid="tt2263944">
+  <anime anidbid="9314" tvdbid="81472" defaulttvdbseason="0" episodeoffset="24" imdbid="tt2263944">
     <name>Dragon Ball Z: Kami to Kami</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;</mapping>
@@ -27907,7 +27907,7 @@
   <anime anidbid="10739" tvdbid="273005" defaulttvdbseason="0">
     <name>Dia no Ace (2014)</name>
   </anime>
-  <anime anidbid="10742" tvdbid="81472" defaulttvdbseason="0" episodeoffset="23" imdbid="tt3819668">
+  <anime anidbid="10742" tvdbid="81472" defaulttvdbseason="0" episodeoffset="26" imdbid="tt3819668">
     <name>Dragon Ball Z: Fukkatsu no "F"</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;</mapping>
@@ -27931,7 +27931,7 @@
   <anime anidbid="10751" tvdbid="289310" defaulttvdbseason="1">
     <name>Military!</name>
   </anime>
-  <anime anidbid="10755" tvdbid="79151" defaulttvdbseason="0" episodeoffset="4" tmdbid="283984,390634,390635" imdbid="tt4054952,tt8091892,tt8092118">
+  <anime anidbid="10755" tvdbid="79151" defaulttvdbseason="0" episodeoffset="5" tmdbid="283984,390634,390635" imdbid="tt4054952,tt8091892,tt8092118">
     <name>Gekijouban Fate/Stay Night: Heaven's Feel</name>
   </anime>
   <anime anidbid="10756" tvdbid="hentai" defaulttvdbseason="1">
@@ -34121,5 +34121,11 @@
   </anime>
   <anime anidbid="16278" tvdbid="219181" defaulttvdbseason="0" episodeoffset="5" tmdbid="822653">
     <name>Gekijouban Mahou Shoujo Madoka Magica: Walpurgis no Kaiten</name>
+  </anime>
+  <anime anidbid="16296" tvdbid="294002" defaulttvdbseason="4">
+    <name>Overlord IV</name>
+  </anime>
+  <anime anidbid="16350" tvdbid="71863" defaulttvdbseason="6">
+    <name>Lupin Sansei: Part 6</name>
   </anime>
 </anime-list>

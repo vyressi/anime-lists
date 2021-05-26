@@ -24126,7 +24126,7 @@
     <name>High Score</name>
   </anime>
   <anime anidbid="8724" tvdbid="128411" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
-    <name>Majime ni Fumajime Kaiketsu Zorori Uchuu Tanken Taisakusen</name>
+    <name>Majime ni Fumajime Kaiketsu Zorori: Uchuu Tanken Daisakusen</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
@@ -29479,7 +29479,7 @@
   <anime anidbid="10751" tvdbid="289310" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Military!</name>
   </anime>
-  <anime anidbid="10755" tvdbid="79151" defaulttvdbseason="0" episodeoffset="4" tmdbid="283984,390634,390635" imdbid="tt4054952,tt8091892,tt8092118">
+  <anime anidbid="10755" tvdbid="79151" defaulttvdbseason="0" episodeoffset="5" tmdbid="283984,390634,390635" imdbid="tt4054952,tt8091892,tt8092118">
     <name>Gekijouban Fate/Stay Night: Heaven's Feel</name>
   </anime>
   <anime anidbid="10756" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -44826,7 +44826,7 @@
   <anime anidbid="16295" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Gotta Fuck 'Em All!</name>
   </anime>
-  <anime anidbid="16296" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="16296" tvdbid="294002" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
     <name>Overlord IV</name>
   </anime>
   <anime anidbid="16297" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -44939,5 +44939,68 @@
   </anime>
   <anime anidbid="16335" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Yankee Hamster Season 2</name>
+  </anime>
+  <anime anidbid="16336" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Hajimete no Hoshi no Ouji-sama: Le Petit Prince</name>
+  </anime>
+  <anime anidbid="16337" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shimajirou to Fufu no Daibouken: Sukue! Nanairo no Hana</name>
+  </anime>
+  <anime anidbid="16338" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shimajirou to Tanjoubi no Ohoshi-sama</name>
+  </anime>
+  <anime anidbid="16339" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Happa no Leaf monogatari</name>
+  </anime>
+  <anime anidbid="16340" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Okashi no Rocket de Shuppaatsu!</name>
+  </anime>
+  <anime anidbid="16341" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Moonlight Adventure</name>
+  </anime>
+  <anime anidbid="16342" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kuma no Gakkou: Jackie no Ohoshi-sama</name>
+  </anime>
+  <anime anidbid="16343" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>10000-Kounen Sougankyou</name>
+  </anime>
+  <anime anidbid="16344" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Hoshi no Ouji-sama: Le Petit Prince</name>
+  </anime>
+  <anime anidbid="16345" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Hoshi o Mi ni Ikou</name>
+  </anime>
+  <anime anidbid="16346" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Majime ni Fumajime Kaiketsu Zorori: Uchuu Tanken Daisakusen - Ougon no Hoshi o Sagase! Hen</name>
+  </anime>
+  <anime anidbid="16347" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Majime ni Fumajime Kaiketsu Zorori: Uchuu Tanken Daisakusen - Chikyuu o Mezase! Hen</name>
+  </anime>
+  <anime anidbid="16348" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Hoshi Usagi to Tsuki no Fune</name>
+  </anime>
+  <anime anidbid="16349" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Let's Star Watching</name>
+  </anime>
+  <anime anidbid="16350" tvdbid="71863" defaulttvdbseason="6" episodeoffset="" tmdbid="" imdbid="">
+    <name>Lupin Sansei: Part 6</name>
+  </anime>
+  <anime anidbid="16351" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Modao Zushi 3</name>
+  </anime>
+  <anime anidbid="16352" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xian Wang De Ri Chang Sheng Huo 2</name>
+  </anime>
+  <anime anidbid="16353" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Quanzhi Fashi V</name>
+  </anime>
+  <anime anidbid="16354" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shi Yi ChangAn: Mingyue Jishi You Er</name>
+  </anime>
+  <anime anidbid="16355" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Biao Ren</name>
+  </anime>
+  <anime anidbid="16356" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Da Wang Rao Ming</name>
   </anime>
 </anime-list>
