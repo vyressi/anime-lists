@@ -30834,4 +30834,10 @@
   <anime anidbid="16278" tvdbid="219181" defaulttvdbseason="0" episodeoffset="5" tmdbid="822653">
     <name>Gekijouban Mahou Shoujo Madoka Magica: Walpurgis no Kaiten</name>
   </anime>
+  <anime anidbid="16296" tvdbid="294002" defaulttvdbseason="4">
+    <name>Overlord IV</name>
+  </anime>
+  <anime anidbid="16350" tvdbid="71863" defaulttvdbseason="6">
+    <name>Lupin Sansei: Part 6</name>
+  </anime>
 </anime-list>
