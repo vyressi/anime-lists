@@ -30247,8 +30247,8 @@
   <anime anidbid="12276" tvdbid="278155" defaulttvdbseason="0" imdbid="tt5914996">
     <name>No Game No Life Zero</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-8;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-7;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-8;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="12278" tvdbid="music video" defaulttvdbseason="1">

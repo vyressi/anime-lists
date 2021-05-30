@@ -33568,8 +33568,8 @@
   <anime anidbid="12276" tvdbid="278155" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt5914996">
     <name>No Game No Life Zero</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-8;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-7;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-8;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="12277" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -38502,7 +38502,7 @@
     <name>Mekakucity V's</name>
   </anime>
   <anime anidbid="14032" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kidou Senshi Gundam 00 (Zokuhen)</name>
+    <name>Gekijou Kidou Senshi Gundam SEED</name>
   </anime>
   <anime anidbid="14035" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Te Ke Dong Ji Pian</name>
@@ -40470,7 +40470,7 @@
     <name>Granbelm</name>
   </anime>
   <anime anidbid="14718" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Xian Wang De Ri Chang Sheng Huo</name>
+    <name>Xian Wang De Richang Shenghuo</name>
   </anime>
   <anime anidbid="14719" tvdbid="" defaulttvdbseason="0" episodeoffset="16" tmdbid="" imdbid="">
     <name>Gintama: The Final</name>
@@ -44996,5 +44996,14 @@
   </anime>
   <anime anidbid="16356" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Da Wang Rao Ming</name>
+  </anime>
+  <anime anidbid="16357" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Given: Uragawa no Sonzai</name>
+  </anime>
+  <anime anidbid="16358" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Ao Ashi</name>
+  </anime>
+  <anime anidbid="16359" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xian Wang de Richang Shenghuo (2021)</name>
   </anime>
 </anime-list>
