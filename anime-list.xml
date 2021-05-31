@@ -15959,11 +15959,8 @@
   <anime anidbid="6783" tvdbid="132771" defaulttvdbseason="1">
     <name>Sora no Oto</name>
   </anime>
-  <anime anidbid="6784" tvdbid="79151" defaulttvdbseason="0" imdbid="tt1587156">
+  <anime anidbid="6784" tvdbid="79151" defaulttvdbseason="0" episodeoffset="4" imdbid="tt1587156">
     <name>Fate/Stay Night: Unlimited Blade Works</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="6785" tvdbid="125561" defaulttvdbseason="1">
     <name>Kaidan Restaurant</name>
@@ -16977,12 +16974,8 @@
   <anime anidbid="7201" tvdbid="256944" defaulttvdbseason="0">
     <name>Susume! Super Angels!</name>
   </anime>
-  <anime anidbid="7206" tvdbid="79151" defaulttvdbseason="0">
+  <anime anidbid="7206" tvdbid="79151" defaulttvdbseason="0" episodeoffset="2">
     <name>Fate/Stay Night (2010)</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;2-3;</mapping>
-    </mapping-list>
     <supplemental-info>
       <studio>Studio Deen</studio>
     </supplemental-info>
@@ -27062,7 +27055,8 @@
   <anime anidbid="12276" tvdbid="278155" defaulttvdbseason="0" imdbid="tt5914996">
     <name>No Game No Life Zero</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-7;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-8;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="12278" tvdbid="music video" defaulttvdbseason="1">
