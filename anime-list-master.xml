@@ -9948,7 +9948,7 @@
     <name>Fuuma no Kojirou: Yasha Hen</name>
   </anime>
   <anime anidbid="3098" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Dan Petory Kyoushu no Yuuutsu</name>
+    <name>Dan Petory-kyouju no Yuuutsu</name>
   </anime>
   <anime anidbid="3099" tvdbid="unknown" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Fuuma no Kojirou: Seiken Sensou Hen</name>
@@ -27444,7 +27444,7 @@
     <name>Date a Live II</name>
   </anime>
   <anime anidbid="9936" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Go! Go! Kadendanshi</name>
+    <name>Go! Go! Kaden Danshi</name>
   </anime>
   <anime anidbid="9937" tvdbid="71863" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Lupin Ikka Seizoroi</name>
@@ -27656,11 +27656,8 @@
   <anime anidbid="10011" tvdbid="276050" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>D-Frag!</name>
   </anime>
-  <anime anidbid="10012" tvdbid="252322" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt3198698">
+  <anime anidbid="10012" tvdbid="252322" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="tt3198698">
     <name>Gekijouban Hunter x Hunter: The Last Mission</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-36;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="10015" tvdbid="81463" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Minami-ke Natsuyasumi</name>
@@ -30999,7 +30996,7 @@
     <name>Matsubara-kun</name>
   </anime>
   <anime anidbid="11301" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Soumubu Sououka Yamaguchi Roppeita: Saibanin Project Hajimemasu!</name>
+    <name>Soumubu Soumuka Yamaguchi Roppeita: Saiban'in Project Hajimemasu!</name>
   </anime>
   <anime anidbid="11302" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Juunigatsu no Uta</name>
@@ -40428,7 +40425,7 @@
     <name>Ero Konbini Tenchou</name>
   </anime>
   <anime anidbid="14704" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Xing You Ji</name>
+    <name>Xing Youji</name>
   </anime>
   <anime anidbid="14705" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Rainbow Ruby</name>
@@ -43566,9 +43563,6 @@
   <anime anidbid="15856" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tianxin Gege Di Si Ji</name>
   </anime>
-  <anime anidbid="15858" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Xing Youji</name>
-  </anime>
   <anime anidbid="15859" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Yingxiong Bie Nao</name>
   </anime>
@@ -44904,9 +44898,6 @@
   <anime anidbid="16325" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Fantasy Bishoujo Juniku Ojisan to</name>
   </anime>
-  <anime anidbid="16326" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kuroinu 2 The Animation</name>
-  </anime>
   <anime anidbid="16327" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Yuki Terai no Dancing Queen</name>
   </anime>
@@ -45005,5 +44996,23 @@
   </anime>
   <anime anidbid="16359" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Xian Wang de Richang Shenghuo (2021)</name>
+  </anime>
+  <anime anidbid="16360" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Usamimi Bouken-tan: Sekuhara Shinagara Sekai o Sukue</name>
+  </anime>
+  <anime anidbid="16361" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kuroinu II The Animation</name>
+  </anime>
+  <anime anidbid="16362" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>The Fire G-Men</name>
+  </anime>
+  <anime anidbid="16363" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Yami Shibai 9</name>
+  </anime>
+  <anime anidbid="16364" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kami-tachi ni Hirowareta Otoko 2</name>
+  </anime>
+  <anime anidbid="16365" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Yume no Tsubomi</name>
   </anime>
 </anime-list>
